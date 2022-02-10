@@ -40,7 +40,7 @@
     "cordova-support-android-plugin": "^1.0.1",
     "core-js": "^2.5.3",
     "ionic-admob": "^0.19.6",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "onesignal-cordova-plugin": "^2.4.7",
     "rxjs": "6.2.2",
     "zone.js": "^0.8.26"
